@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarylBull, a machine learning specialist who applies practical strategies to enhance operational performance. This page is for my work at UON.
+- 👋 Hi, I’m @DarylBull, a machine learning specialist who applies practical strategies to enhance operational performance. This page is used for my work at UON.
 - 👀 I’m interested in how Machine Learning and the latest technologies  are transforming our world. I love using modern data techniques to tackle complex business challenges. I’m proud to have a graduate diploma in Data Science from Newcastle University. 
 - Other Stuff
 - 🌱 I’m currently learning Azure Data Lakes...
